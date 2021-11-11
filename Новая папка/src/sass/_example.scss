@@ -27,7 +27,7 @@ input {
   padding-left: 15px;
   border-radius: 42px;
   border: 2px solid rgb(27, 158, 92);
-  background: #hsl(276, 59%, 77%);
+  background: hsl(276, 59%, 77%);
   outline: none;
   position: relative;
   transition: 0.3s linear;
@@ -58,7 +58,7 @@ input::placeholder {
   padding: 5px 25px;
   border-radius: 42px;
   border: 2px solid rgb(27, 158, 92);
-  background: #hsl(276, 59%, 77%);
+  background: hsl(276, 59%, 77%);
   outline: none;
   cursor: pointer;
 }
